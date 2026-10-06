@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Riders</string>
+    <string name="title_activity_main">Riders</string>
+    <string name="package_name">com.riders.app</string>
+    <string name="custom_url_scheme">com.riders.app</string>
+</resources>
